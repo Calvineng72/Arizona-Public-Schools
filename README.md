@@ -1,4 +1,4 @@
-Sprint 3: Command Terminal Webapp
+Examining Predictors of Educational Outcomes: A Comparison of Traditional and Charter Schools in Arizona
 =============
 ### Author: Calvin Eng
 Link to Github Repository-
