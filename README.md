@@ -5,7 +5,7 @@ Link to Github Repository-
 https://github.com/Econ1680-MLTAEcon-Handlan/project1-Calvineng72
 
 Link to paper-
-https://docs.google.com/document/d/1EhzSCUnP5NcG491ZtOidbg8z9TBg-0m28Vxj41KF36Y/edit?usp=sharing
+https://drive.google.com/file/d/1DIbSF5_Z_znnVK-dFhbZKsMROW9JgmLS/view?usp=sharing
 ## Project Details
 The following project seeks to determine the difference in outcomes between traditional and charter schools in arizona. Using datasets containing the percent proficient on state exams and school data for every school in Arizona, the project uses machine learning techniques, such as clustering and lasso, to describe the differences between charter and traditional schools. For the original dataset, please contact me at calvin_eng@brown.edu, as the original datasets are too large to be added to GitHub in their form. 
 ## Files and Folders
