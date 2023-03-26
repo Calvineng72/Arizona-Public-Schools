@@ -20,4 +20,4 @@ The following is a guide to the various files and folders within the repository
 - clustering.ipynb contains the hierarchical and kmeans clustering with various variables 
 - preprocessing.py handles the data cleaning of the original dataset, including features such as fixed effects and the calculation of averages and percents
 - /yearly_data is a directory containing the year-by-year datasets for the data
-- /combined_data is a directory containing the panel data of all schools for every year in the study
+- /combined_data is a directory containing the data of all schools for every year in the study with school test scores
