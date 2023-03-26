@@ -3,6 +3,7 @@ Examining Predictors of Educational Outcomes: A Comparison of Traditional and Ch
 ### Author: Calvin Eng
 Link to Github Repository-
 https://github.com/Econ1680-MLTAEcon-Handlan/project1-Calvineng72
+
 Link to paper-
 https://docs.google.com/document/d/1EhzSCUnP5NcG491ZtOidbg8z9TBg-0m28Vxj41KF36Y/edit?usp=sharing
 ## Project Details
