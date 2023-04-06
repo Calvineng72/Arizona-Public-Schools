@@ -1,9 +1,6 @@
 Examining Predictors of Educational Outcomes: A Comparison of Traditional and Charter Schools in Arizona
 =============
 ### Author: Calvin Eng
-Link to Github Repository-
-https://github.com/Econ1680-MLTAEcon-Handlan/project1-Calvineng72
-
 Link to paper-
 https://drive.google.com/file/d/1DIbSF5_Z_znnVK-dFhbZKsMROW9JgmLS/view?usp=sharing
 ## Project Details
