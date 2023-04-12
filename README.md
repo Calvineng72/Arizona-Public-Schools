@@ -4,7 +4,7 @@ Examining Predictors of Educational Outcomes: A Comparison of Traditional and Ch
 Link to paper-
 https://drive.google.com/file/d/1DIbSF5_Z_znnVK-dFhbZKsMROW9JgmLS/view?usp=sharing
 ## Project Details
-The following project seeks to determine the difference in outcomes between traditional and charter schools in arizona. Using datasets containing the percent proficient on state exams and school data for every school in Arizona, the project uses machine learning techniques, such as clustering and lasso, to describe the differences between charter and traditional schools. For the original dataset, please contact me at calvin_eng@brown.edu, as the original datasets are too large to be added to GitHub in their form. 
+The following project seeks to determine the difference in outcomes between traditional and charter schools in Arizona. Using datasets containing the percent proficient on state exams and school data for every school in Arizona, the project uses machine learning techniques, such as clustering and lasso, to describe the differences between charter and traditional schools. For the original dataset, please contact me at calvin_eng@brown.edu, as the original datasets are too large to be added to GitHub in their form. 
 ## Files and Folders
 The following is a guide to the various files and folders within the repository
 
